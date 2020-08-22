@@ -4,4 +4,4 @@
 Classification
 
 
-Perceptron, Logistic regression, Decisiontree, KNN, SVM
+Perceptron, Logistic regression, Decision tree, KNN, SVM
